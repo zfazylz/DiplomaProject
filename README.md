@@ -1,4 +1,3 @@
-# DiplomaProject
 <h1 align="center">IITU Diploma Project</p>
 
 ----

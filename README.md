@@ -2,7 +2,7 @@
 
 ----
 <p align="center">
-<strong><a href="https://docs.google.com/presentation/d/1VI7NsBlUWEsTuoPmGG6qAClWWLxQohfNOmXal-F1h4s/edit#slide=id.p">Presentation</a></strong>
+<strong><a href="https://docs.google.com/presentation/d/1VI7NsBlUWEsTuoPmGG6qAClWWLxQohfNOmXal-F1h4s/edit#slide=id.p">Presentation (tap to open)</a></strong>
 </p>
 
 <h2 align="center">Team:</h2>

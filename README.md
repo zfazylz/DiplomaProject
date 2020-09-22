@@ -1,5 +1,5 @@
 # DiplomaProject
-IITU Diploma Project
+<h1 align="center">IITU Diploma Project</p>
 
 ----
 <p align="center">

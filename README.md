@@ -1,16 +1,10 @@
-<h1 align="center">IITU Diploma Project</p>
+# Diploma Project
 
-----
-<p align="center">
-<strong><a href="https://docs.google.com/presentation/d/1VI7NsBlUWEsTuoPmGG6qAClWWLxQohfNOmXal-F1h4s/edit#slide=id.p">Presentation (tap to open)</a></strong>
-</p>
+## Team Members
++ [Nurtugan Nuraly](https://github.com/nurtugan)
++ [Fazylzhan Zheten](https://github.com/zfazylz)
 
-<h2 align="center">Team:</h2>
-<p align="center">
-<strong><a href="https://github.com/nurtugan">Nurtugan</a></strong>
-</p>
-<p align="center">
-<strong><a href="https://github.com/zfazylz">Fazylzhan</a></strong>
-</p>
-
-----
+## RK1 Assignments
++ [Steps 1-3](https://docs.google.com/presentation/d/1VI7NsBlUWEsTuoPmGG6qAClWWLxQohfNOmXal-F1h4s/edit#slide=id.p)
++ [Steps 5-7]()
++ [Chapter #1](https://docs.google.com/document/d/1MmnQY4PUVDeEsEj7e9Ukh1rWPwa2fVsDE3FQlk347pg/edit?usp=sharing)

@@ -10,3 +10,6 @@
 + [Steps 1-3](https://docs.google.com/presentation/d/1VI7NsBlUWEsTuoPmGG6qAClWWLxQohfNOmXal-F1h4s/edit#slide=id.p)
 + [Steps 5-7](https://docs.google.com/document/d/1nXZ812Id7ROTeAnDzkv_lljLCytWID2Ez-hOOX3X-go/edit?usp=sharing)
 + [Chapter #1](https://docs.google.com/document/d/1MmnQY4PUVDeEsEj7e9Ukh1rWPwa2fVsDE3FQlk347pg/edit?usp=sharing)
+
+## Support
+If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/zfazylz/DiplomaProject/issues/new).

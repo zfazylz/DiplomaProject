@@ -1,4 +1,5 @@
 # Diploma Project
+[![@nurtuganx](https://img.shields.io/badge/contact-%40nurtuganx-blue)](https://t.me/nurtuganx)
 
 ## Team Members
 + [Nurtugan Nuraly](https://github.com/nurtugan)

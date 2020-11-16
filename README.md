@@ -14,7 +14,7 @@
 ## RK2 Assignments
 + Project characterization and Software Design
   - [Project characterization](https://docs.google.com/document/d/1mJTducmO4S0DeILhdBXf5FgygZnI5FDQ6rn6ydG8GZ0/edit?usp=sharing)
-  - [Software Design]()
+  - [Software Design](https://github.com/zfazylz/DiplomaProject/blob/master/myapp_models.png)
 
 ## Support
 If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/zfazylz/DiplomaProject/issues/new).
